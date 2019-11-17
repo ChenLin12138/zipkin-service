@@ -15,7 +15,11 @@ http://maven.apache.org/download.cgi
 5. Import project as Existing maven projects.
 6. Use mvn clean install to install this project.
 ## Demo
-
+使用以下链接访问zipkin界面
+```
+http://localhost:9411
+```
+![zipkin图片](https://github.com/ChenLin12138/zipkin-service/blob/master/demo/pic/zipkin.png)
 
 
 
